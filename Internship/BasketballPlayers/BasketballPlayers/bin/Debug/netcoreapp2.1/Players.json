@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Steven Adams",
+    "PlayingSince": 2013,
+    "Position": "C",
+    "Rating": 89
+  },
+  {
+    "Name": "Shawn Adams",
+    "PlayingSince": 2003,
+    "Position": "SG",
+    "Rating": 9
+  },
+  {
+    "Name": "Ivan  Adams",
+    "PlayingSince": 2019,
+    "Position": "PG",
+    "Rating": 99
+  }
+]

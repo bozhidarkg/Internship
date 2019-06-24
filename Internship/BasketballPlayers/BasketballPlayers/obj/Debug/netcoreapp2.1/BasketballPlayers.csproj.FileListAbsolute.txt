@@ -1,0 +1,11 @@
+D:\Internship\BasketballPlayers\BasketballPlayers\bin\Debug\netcoreapp2.1\BasketballPlayers.deps.json
+D:\Internship\BasketballPlayers\BasketballPlayers\bin\Debug\netcoreapp2.1\BasketballPlayers.runtimeconfig.json
+D:\Internship\BasketballPlayers\BasketballPlayers\bin\Debug\netcoreapp2.1\BasketballPlayers.runtimeconfig.dev.json
+D:\Internship\BasketballPlayers\BasketballPlayers\bin\Debug\netcoreapp2.1\BasketballPlayers.dll
+D:\Internship\BasketballPlayers\BasketballPlayers\bin\Debug\netcoreapp2.1\BasketballPlayers.pdb
+D:\Internship\BasketballPlayers\BasketballPlayers\obj\Debug\netcoreapp2.1\BasketballPlayers.csprojAssemblyReference.cache
+D:\Internship\BasketballPlayers\BasketballPlayers\obj\Debug\netcoreapp2.1\BasketballPlayers.csproj.CoreCompileInputs.cache
+D:\Internship\BasketballPlayers\BasketballPlayers\obj\Debug\netcoreapp2.1\BasketballPlayers.AssemblyInfoInputs.cache
+D:\Internship\BasketballPlayers\BasketballPlayers\obj\Debug\netcoreapp2.1\BasketballPlayers.AssemblyInfo.cs
+D:\Internship\BasketballPlayers\BasketballPlayers\obj\Debug\netcoreapp2.1\BasketballPlayers.dll
+D:\Internship\BasketballPlayers\BasketballPlayers\obj\Debug\netcoreapp2.1\BasketballPlayers.pdb
